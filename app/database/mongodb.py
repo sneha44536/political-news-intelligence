@@ -6,10 +6,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-
 MONGO_URI = os.getenv(
     "MONGO_URI",
-    "mongodb://localhost:27017"
+    "mongodb://host.docker.internal:27017"
 )
 
 DATABASE_NAME = "political_news"
