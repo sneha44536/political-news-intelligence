@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+feedparser
+pandas
+numpy
+pymongo
+python-dotenv
+vaderSentiment
+spacy
+fastapi
+uvicorn
+streamlit
+plotly
