@@ -478,5 +478,3 @@ Skills Demonstrated:
 - Data Visualization
 
 ---
-
-⭐ If you found this project useful, give it a star on GitHub!
